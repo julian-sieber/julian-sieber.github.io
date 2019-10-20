@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Julian Sieber</title>
+    <title>Authors | Julian Sieber</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Julian Sieber</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 18:57:58 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 18:57:58 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
     <item>
       <title>Julian Sieber</title>
       <link>/authors/julian-sieber/</link>
       <pubDate>Sun, 20 Oct 2019 18:57:58 +0100</pubDate>
-      
       <guid>/authors/julian-sieber/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Simone Warzel</title>
       <link>/authors/simone-warzel/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/simone-warzel/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Vincent Beaud</title>
       <link>/authors/vincent-beaud/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/vincent-beaud/</guid>
       <description></description>
     </item>
@@ -42,9 +40,9 @@
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/authors/admin/</guid>
-      <description>I&amp;rsquo;m a PhD student in the EPSRC CDT in Mathematics of Random Systems, jointly run by Imperial College London and the University of Oxford.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student in the EPSRC CDT in &lt;a href=&#34;https://www.randomsystems-cdt.ac.uk&#34; target=&#34;_blank&#34;&gt;Mathematics of Random Systems&lt;/a&gt;, jointly run by Imperial College London and the University of Oxford.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -3,19 +3,19 @@
   <channel>
     <title>Julian Sieber</title>
     <link>/</link>
-    <description>Recent content on Julian Sieber</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 18:57:58 +0100</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julian Sieber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 18:57:58 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Julian Sieber</title>
+      <link>/</link>
+    </image>
     
     <item>
       <title>Monotonicity of the Poincaré and Log Sobolev Constants of One Dimensional Gibbs Measures</title>
       <link>/publication/monotonicity-of-the-poincar%C3%A9-and-log-sobolev-constants-of-one-dimensional-gibbs-measures/</link>
       <pubDate>Sun, 20 Oct 2019 18:57:58 +0100</pubDate>
-      
       <guid>/publication/monotonicity-of-the-poincar%C3%A9-and-log-sobolev-constants-of-one-dimensional-gibbs-measures/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Bounds on the bipartite entanglement entropy for oscillator systems with or without disorder</title>
       <link>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</guid>
       <description></description>
     </item>
