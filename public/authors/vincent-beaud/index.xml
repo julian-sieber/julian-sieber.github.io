@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Beaud | Julian Sieber</title>
+    <link>/authors/vincent-beaud/</link>
+      <atom:link href="/authors/vincent-beaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Beaud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vincent Beaud</title>
+      <link>/authors/vincent-beaud/</link>
+    </image>
+    
+    <item>
+      <title>Bounds on the bipartite entanglement entropy for oscillator systems with or without disorder</title>
+      <link>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
