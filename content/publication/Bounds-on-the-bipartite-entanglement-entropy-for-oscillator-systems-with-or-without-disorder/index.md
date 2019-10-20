@@ -39,7 +39,7 @@ featured: false
 url_pdf: https://arxiv.org/pdf/1812.09144.pdf
 url_code:
 url_dataset:
-url_poster: https://www.ma.tum.de/_Resources/Persistent/121bb2d70c683b26ae9e2fad2d1fde3aec5f209f/2019-02-08_B.Sc.-Poster_Sieber.pdf
+url_poster: "poster_entropy.pdf"
 url_project:
 url_slides:
 url_source:

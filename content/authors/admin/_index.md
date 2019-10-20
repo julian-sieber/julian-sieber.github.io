@@ -41,6 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:test@example.org
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/juliansieber95/
 - icon: github
   icon_pack: fab
   link: https://github.com/julian-sieber
