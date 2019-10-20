@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Warzel on Julian Sieber</title>
+    <link>/authors/simone-warzel/</link>
+    <description>Recent content in Simone Warzel on Julian Sieber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/simone-warzel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bounds on the bipartite entanglement entropy for oscillator systems with or without disorder</title>
+      <link>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
