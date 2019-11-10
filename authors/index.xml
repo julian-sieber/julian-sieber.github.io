@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Julian Sieber</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julian-sieber.github.io/authors/</link>
+      <atom:link href="https://julian-sieber.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 18:57:58 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://julian-sieber.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://julian-sieber.github.io/authors/</link>
     </image>
     
     <item>
       <title>Julian Sieber</title>
-      <link>/authors/julian-sieber/</link>
+      <link>https://julian-sieber.github.io/authors/julian-sieber/</link>
       <pubDate>Sun, 20 Oct 2019 18:57:58 +0100</pubDate>
-      <guid>/authors/julian-sieber/</guid>
+      <guid>https://julian-sieber.github.io/authors/julian-sieber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simone Warzel</title>
-      <link>/authors/simone-warzel/</link>
+      <link>https://julian-sieber.github.io/authors/simone-warzel/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/simone-warzel/</guid>
+      <guid>https://julian-sieber.github.io/authors/simone-warzel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vincent Beaud</title>
-      <link>/authors/vincent-beaud/</link>
+      <link>https://julian-sieber.github.io/authors/vincent-beaud/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/vincent-beaud/</guid>
+      <guid>https://julian-sieber.github.io/authors/vincent-beaud/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://julian-sieber.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://julian-sieber.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a PhD student in the EPSRC CDT in &lt;a href=&#34;https://www.randomsystems-cdt.ac.uk&#34; target=&#34;_blank&#34;&gt;Mathematics of Random Systems&lt;/a&gt;, jointly run by Imperial College London and the University of Oxford.&lt;/p&gt;
 </description>
     </item>

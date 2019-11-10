@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Warzel | Julian Sieber</title>
-    <link>/authors/simone-warzel/</link>
-      <atom:link href="/authors/simone-warzel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julian-sieber.github.io/authors/simone-warzel/</link>
+      <atom:link href="https://julian-sieber.github.io/authors/simone-warzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Simone Warzel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://julian-sieber.github.io/img/icon-192.png</url>
       <title>Simone Warzel</title>
-      <link>/authors/simone-warzel/</link>
+      <link>https://julian-sieber.github.io/authors/simone-warzel/</link>
     </image>
     
     <item>
       <title>Bounds on the bipartite entanglement entropy for oscillator systems with or without disorder</title>
-      <link>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</link>
+      <link>https://julian-sieber.github.io/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</guid>
+      <guid>https://julian-sieber.github.io/publication/bounds-on-the-bipartite-entanglement-entropy-for-oscillator-systems-with-or-without-disorder/</guid>
       <description></description>
     </item>
     
