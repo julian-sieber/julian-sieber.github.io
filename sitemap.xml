@@ -1,39 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://julian-sieber.github.io/publication_types/3/</loc>
-    <lastmod>2019-10-20T18:57:58+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://julian-sieber.github.io/authors/</loc>
-    <lastmod>2019-10-20T18:57:58+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://julian-sieber.github.io/authors/julian-sieber/</loc>
-    <lastmod>2019-10-20T18:57:58+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://julian-sieber.github.io/</loc>
-    <lastmod>2019-10-20T18:57:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://julian-sieber.github.io/publication/monotonicity-of-the-poincar%C3%A9-and-log-sobolev-constants-of-one-dimensional-gibbs-measures/</loc>
-    <lastmod>2019-10-20T18:57:58+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://julian-sieber.github.io/publication_types/</loc>
-    <lastmod>2019-10-20T18:57:58+01:00</lastmod>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://julian-sieber.github.io/publication/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julian-sieber.github.io/publication/slow-fast-systems-with-fractional-environment-and-dynamics/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julian-sieber.github.io/authors/xue-mei-li/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julian-sieber.github.io/publication/monotonicity-of-the-poincar%C3%A9-and-log-sobolev-constants-of-one-dimensional-gibbs-measures/</loc>
     <lastmod>2019-10-20T18:57:58+01:00</lastmod>
   </url>
   
@@ -63,14 +73,6 @@
   
   <url>
     <loc>https://julian-sieber.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://julian-sieber.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://julian-sieber.github.io/talk/</loc>
   </url>
   
   <url>

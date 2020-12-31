@@ -5,12 +5,20 @@
     <link>https://julian-sieber.github.io/publication/</link>
       <atom:link href="https://julian-sieber.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 18:57:58 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://julian-sieber.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://julian-sieber.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Slow-Fast Systems with Fractional Environment and Dynamics</title>
+      <link>https://julian-sieber.github.io/publication/slow-fast-systems-with-fractional-environment-and-dynamics/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://julian-sieber.github.io/publication/slow-fast-systems-with-fractional-environment-and-dynamics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monotonicity of the Poincaré and Log Sobolev Constants of One Dimensional Gibbs Measures</title>
