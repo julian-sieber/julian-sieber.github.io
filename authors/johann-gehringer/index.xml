@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xue-Mei Li | Julian Sieber</title>
-    <link>https://julian-sieber.github.io/authors/xue-mei-li/</link>
-      <atom:link href="https://julian-sieber.github.io/authors/xue-mei-li/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xue-Mei Li</description>
+    <title>Johann Gehringer | Julian Sieber</title>
+    <link>https://julian-sieber.github.io/authors/johann-gehringer/</link>
+      <atom:link href="https://julian-sieber.github.io/authors/johann-gehringer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johann Gehringer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://julian-sieber.github.io/img/icon-192.png</url>
-      <title>Xue-Mei Li</title>
-      <link>https://julian-sieber.github.io/authors/xue-mei-li/</link>
+      <title>Johann Gehringer</title>
+      <link>https://julian-sieber.github.io/authors/johann-gehringer/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://julian-sieber.github.io/publication/functional-limit-theorems-for-volterra-processes-and-applications-to-homogenization/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://julian-sieber.github.io/publication/functional-limit-theorems-for-volterra-processes-and-applications-to-homogenization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slow-Fast Systems with Fractional Environment and Dynamics</title>
-      <link>https://julian-sieber.github.io/publication/slow-fast-systems-with-fractional-environment-and-dynamics/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://julian-sieber.github.io/publication/slow-fast-systems-with-fractional-environment-and-dynamics/</guid>
       <description></description>
     </item>
     

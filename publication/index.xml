@@ -5,12 +5,20 @@
     <link>https://julian-sieber.github.io/publication/</link>
       <atom:link href="https://julian-sieber.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://julian-sieber.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://julian-sieber.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Functional Limit Theorems for Volterra Processes and Applications to Homogenization</title>
+      <link>https://julian-sieber.github.io/publication/functional-limit-theorems-for-volterra-processes-and-applications-to-homogenization/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://julian-sieber.github.io/publication/functional-limit-theorems-for-volterra-processes-and-applications-to-homogenization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Slow-Fast Systems with Fractional Environment and Dynamics</title>
